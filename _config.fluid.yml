@@ -710,7 +710,7 @@ valine:
 # Derived from Valine, with self-hosted service and new features
 # See: https://waline.js.org/
 waline:
-  serverURL: 'https://waline-dusky-xi.vercel.app/'
+  serverURL: 'https://waline-woad.vercel.app/'
   placeholder: 说点什么
   path: window.location.pathname
   avatar: retro
